@@ -1,0 +1,49 @@
+.form-container {
+  padding: 30px 0 50px;
+  .container {
+    max-width: 700px;
+  }
+  .form-title {
+    h3 {
+      text-align: center;
+      text-transform: uppercase;
+      font-weight: 700;
+      color: $color-green-0;
+    }
+    .update-title {
+      color: $color-blue-0;
+    }
+  }
+  .form-content {
+    .showErr {
+      font-size: 14px;
+      color: red;
+      font-weight: bold;
+      margin: 7px 0 0;
+      padding-left: 5px;
+    }
+    .showFalse,
+    .showFalse:focus {
+      box-shadow: 0 0 0 0.15rem #e74c3c !important;
+    }
+
+    .showTrue,
+    .showTrue:focus {
+      box-shadow: 0 0 0 0.15rem #27ae60 !important;
+    }
+
+    .showFalse:focus,
+    .showTrue:focus {
+      border: 1px solid lightgray;
+    }
+    label {
+      font-weight: 700;
+      span {
+        color: $color-red-0;
+      }
+    }
+    input {
+      border-color: $color-gray-1;
+    }
+  }
+}

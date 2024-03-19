@@ -1,0 +1,38 @@
+.btn-cv {
+  text-align: center;
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  display: inline-block;
+  width: 170px;
+  padding: 9px 0;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.7px;
+  border: none;
+}
+.btn-form {
+  border: none;
+  text-align: center;
+  display: inline-block;
+  text-decoration: none;
+  width: 150px;
+  padding: 7px 0;
+  margin-right: 10px;
+  color: $color-white-0;
+  font-weight: 700;
+  border-radius: 5px;
+}
+.btn-add {
+  background-color: $color-green-0;
+}
+.btn-edit {
+  background-color: $color-blue-0;
+}
+.btn-delete {
+  background-color: $color-red-0;
+}
+.btn-list {
+  background-color: $color-dark-0;
+}

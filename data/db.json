@@ -1,0 +1,64 @@
+{
+  "user": [
+    {
+      "fullName": "Lê Trung Tín",
+      "career": "Front-end Web Developer",
+      "avatar": "Tin.jpg",
+      "phoneNumber": "0123456789",
+      "email": "letrungtin@gmail.com",
+      "website": "www.trungtin.com",
+      "address": "38 Cống Lỡ, Gò Vấp",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "fullName": "Tường Thế Duy",
+      "career": "Front-end Web Developer",
+      "avatar": "Duy.jpg",
+      "phoneNumber": "0987654321",
+      "email": "theduy123@gmail.com",
+      "website": "www.tuongtheduy.com",
+      "address": "90 Tô Ký, Quận 12"
+    },
+    {
+      "id": "3",
+      "fullName": "Nguyễn Văn Tài",
+      "career": "Back-end Web Developer",
+      "avatar": "user1.jpg",
+      "phoneNumber": "0135791235",
+      "email": "vantai77@gmail.com",
+      "website": "www.nguyenvantai.com",
+      "address": "23 Trường Chinh, Tân Bình"
+    },
+    {
+      "id": "4",
+      "fullName": "Hà Trung Hiếu",
+      "career": "PHP Wordpress Developer",
+      "avatar": "user2.jpg",
+      "phoneNumber": "0246878937",
+      "email": "trunghieu23@gmail.com",
+      "website": "www.hatrunghieu.com",
+      "address": "56 Hai Bà Trưng, Quận 1"
+    },
+    {
+      "id": "5",
+      "fullName": "Nguyễn Tri Bảo Ngọc",
+      "avatar": "user3.jpg",
+      "career": "UI/UX Design",
+      "phoneNumber": "0135724689",
+      "email": "tribaongoc@gmail.com",
+      "website": "www.tribaongoc.com",
+      "address": "97 Quang Trung, Gò Vấp"
+    },
+    {
+      "fullName": "Trung Tin 123456",
+      "career": "Front-end Web",
+      "avatar": "user1.jpg",
+      "phoneNumber": "0359842413",
+      "email": "rungtin@gmail.com",
+      "website": "www.trungtin1213.com",
+      "address": "29/9/3 Số 5 TP HCM",
+      "id": "7"
+    }
+  ]
+}
